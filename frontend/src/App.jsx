@@ -1,12 +1,11 @@
 
 import './App.css'
-import {Button} from '@material-tailwind/react'
 
 function App() {
  
 
   return (
-    <Button>Button</Button>
+    <div className='text-blue-500 text-3xl underline-offset-0'>Bonjour ici</div>
   )
 }
 
